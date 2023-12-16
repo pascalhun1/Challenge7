@@ -63,7 +63,7 @@ h6 {
 @media screen and (max-width: 912px) {
   .container {
     position: relative;
-    top: 181px;
+    top: 265px;
     flex-direction: column;
     height: auto;
   }
