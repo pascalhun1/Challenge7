@@ -59,7 +59,7 @@ h6 {
 #__next {
   isolation: isolate;
 }
-
+ 
 @media screen and (max-width: 912px) {
   .container {
     position: relative;
